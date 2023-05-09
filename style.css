@@ -1,0 +1,49 @@
+body {
+    min-height: 100vh;
+    background-color: rgb(244, 237, 255) !important; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    min-height: 100vh;
+    background-color: rgb(244, 237, 255) !important; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    ;
+}
+.card {
+    min-height: 500px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.bg-blue {
+    background-color: rgb(23, 60, 232) !important;
+    
+}
+
+.bg-blue img {
+    width: 70px;
+    align-self: center;
+    margin-top: 40px;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.cart-text {
+    display: flex;
+    flex-direction: column;
+}
+.card-body{
+    display: grid;
+}
+
+.btn-primary {
+    height: 40px;
+}
